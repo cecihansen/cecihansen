@@ -57,7 +57,8 @@ ___________________________________________
 <a href="https://www.linkedin.com/in/hansen-cecilia/" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/hansen-cecilia/" height="30" width="40" /></a>
 <p align="center">
-    <a href="https://www.linkedin.com/in/hansen-cecilia/"><img alt="Linkedin profile" title="Linkedin" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linkedin.svg" width="100" height="30" /></a>
-    <a href="mailto:ceci.hansen@gmail.com><img alt="Gmail" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/google-gmail.svg" title="Email" width="100" height="30" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/hansen-cecilia/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:ceci.hansen@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+
     
 </p>
