@@ -56,7 +56,7 @@
 
 ## 🛠 Projects that I contributed to
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cecihansen&repo=BUET-CSE-Moodle-Web-Scraping&show_owner=true)](https://github.com/ShanjinurIslam/BUET-CSE-Moodle-Web-Scraping) <br />
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cecihansen&repo=BUET-CSE-Moodle-Web-Scraping&show_owner=true)](https://github.com/cecihansen/BUET-CSE-Moodle-Web-Scraping) <br />
 ___________________________________________
 
 ## 📫 CONTACT ME
