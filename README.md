@@ -54,9 +54,7 @@
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
-## 🛠 Projects that I contributed to
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cecihansen&repo=BUET-CSE-Moodle-Web-Scraping&show_owner=true)](https://github.com/cecihansen/BUET-CSE-Moodle-Web-Scraping) <br />
 ___________________________________________
 
 ## 📫 CONTACT ME
