@@ -18,41 +18,6 @@
 
 </p>
 
-## Checkout my work
-👇
-👇
-👇   
-____________________
-## HENRY SPORTS
-
-
-📌 Ecommerce developed to sale sport shop products
-
-🚀 Technologies: 
-React - Redux - Bootstrap - NodeJS- Express - PostgreSQL - Passport
-
-<img align="left"  width= "350px" src='producto.png' />
-<img align="center" width= "350px" src='productos.png' />
-<img align="left" width= "350px" src='carrito.png' />
-<img align="center"width= "350px" src='tablaordenes.png' />
-
-____________
-
-## HENRY APP 
-
-📌 Developed with the aim of improving administrative channels of Henry´s community
-
-🚀 Technologies: 
-React - Redux - Material UI - NodeJS- Express - PostgreSQL - Passport 
-
-🎨 Mock-up: Adobe XD
-
-<img align="left" width= "350px" src='login.png' />
-<img align="center" width= "350px" src='editarperfil.png' />
-<img align="left" width= "350px" src='herramientas.png' />
-<img align="center" width= "350px" src='alumnos.png' />
-<!-- <img width= "400px" src='seleccionarpm.png' />
-<img width= "400px" src='mail.png' /> -->
 
 ## ⚡Languages and Tools:
 
