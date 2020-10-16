@@ -4,8 +4,16 @@
 
 # Hi everyone, I´m Cecilia!
 ### I'm a Public Relations Officer and a Full Stack Web Developer* 
-*Also scout since 2004.
 
+# I am really passionate about this:
+- 💬 Everything related to communication, especially the digital world.
+- 🎯 Learn new things
+- 😃 Meet new people
+- 🚀 The changes
+- 🗒 Read
+- 🌱 Be in contact with nature and everything that has to do with reducing our impact on it
+- 👯 Work in a team and collaborative
+- 💻 In the pandemic I found a new passion: programming
 
 
 
