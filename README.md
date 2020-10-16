@@ -29,7 +29,7 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=Redux)
-  ![Material-UI](https://img.shields.io/badge/-Material-UI-333333?style=flat&logo=Material-UI)
+  ![Material-UI](https://img.shields.io/badge/-MaterialUI-333333?style=flat&logo=Material-UI)
   
   
 - 🛢 &nbsp;
