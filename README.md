@@ -42,6 +42,7 @@
   
 - 🛢 &nbsp;
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
+  ![Microsoft SQL Server] (https://img.shields.io/badge/-MicrosoftSQLServer-333333?style=flat&logo=Microsoft-SQL-Server)
   
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
