@@ -38,8 +38,14 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=Redux)
   ![Material-UI](https://img.shields.io/badge/-MaterialUI-333333?style=flat&logo=Material-UI)
+  ![Svelte](https://img.shields.io/badge/-Svelte-333333?style=flat&logo=Svelte)
+  ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=GraphQL)
+  ![Apollo GraphQL](https://img.shields.io/badge/-ApolloGraphQL-333333?style=flat&logo=Apollo-GraphQL)
   
-  
+- ✨&nbsp;
+  ![Slack](https://img.shields.io/badge/-Slack-333333?style=flat&logo=Slack)
+  ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=Notion)
+    
 - 🛢 &nbsp;
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
   ![Microsoft-SQL-Server](https://img.shields.io/badge/-MicrosoftSQLServer-333333?style=flat&logo=Microsoft-SQL-Server)
@@ -47,9 +53,11 @@
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![GitKraken](https://img.shields.io/badge/-GitKraken-333333?style=flat&logo=GitKraken)
 
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Visual Studio](https://img.shields.io/badge/-VisualStudio-333333?style=flat&logo=Visual-Studio)
 
 - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
